@@ -5,3 +5,4 @@ Simply access http://localhost/socianovation
 
 Follow the guide and you will be good to start.# projectakhirkosan
 # projectakhirkosan
+# projectakhirkosan
